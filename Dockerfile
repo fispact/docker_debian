@@ -1,4 +1,4 @@
-FROM debian:9
+FROM debian:10
 MAINTAINER UKAEA <admin@fispact.ukaea.uk>
 
 # Build-time metadata as defined at http://label-schema.org
